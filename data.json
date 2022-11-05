@@ -1,0 +1,45 @@
+ [
+    {
+      "id": 1,
+      "picture": "https://img.freepik.com/free-vector/man-designing-web_1212-312.jpg?w=740&t=st=1666894800~exp=1666895400~hmac=acb370ba53ed5c1a255fe797939e20ce1bfa68ccd4eb12b7ba0041c85a0d9354",
+      "name": "HTML FOR BEGGINERS", 
+      "price": "$200", 
+      "description": "Get started as a web developer by learning the basics of HTML, the essential language of the web.Learn about the fundamentals of HTML as well as the major updates made in HTML from this course.This course on the fundamentals of HTML will give you a comprehensive guide on the major updates available in HTML version 5 (HTML5). You will learn how to download, install, and customize ComodoreEdit, which is the free editing software in HTML5. Other key themes in this HTML course are learning about the new semantic elements along with differences between the placeholder attribute and the value attribute in HTML."
+    },
+    {
+      "id": 2,
+      "picture": "https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1666894898~exp=1666895498~hmac=6196afd3dd8bdc3e49a94462a871ea385f4ce933e3b4ab4dbc7f621b89e26cf0",
+      "name": "ADVANCED CSS COURSE",
+      "price": "$200",
+      "description": "CSS (Cascading Style Sheet) is a language used to define the presentation of a document written in HTML or XML and how its components appear on screen, paper, or other mediums. CSS determines the font size, font family, colour, and background colour on web pages. CSS is easy to maintain and update, provides greater consistency in design, offers more formatting options, gives greater accessibility, etc. These features make it easy for users to design attractive web pages using CSS. It helps to save a significant amount of work by assisting in managing the layout of numerous web pages simultaneously. Our CSS training is designed to provide learners with the essential skills and the fundamentals of this powerful language that will help them to support their career growth.Learn and practice the fundamentals of CSS to add beautiful styling to your webpages."
+    },
+    {
+      "id": 3,
+      "picture": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept_335657-2412.jpg?w=996&t=st=1666893856~exp=1666894456~hmac=0c990df1789cd3b34139c7f7c16311f7372b7fda9d7b38edf2f279e6b529dbac",
+      "name": "ADVANCED JAVASCRIPT",
+      "price": "$250",
+      "description": "A Coursera Specialization is a series of courses that helps you master a skill. To begin, enroll in the Specialization directly, or review its courses and choose the one you'd like to start with. When you subscribe to a course that is part of a Specialization, you’re automatically subscribed to the full Specialization. It’s okay to complete just one course — you can pause your learning or end your subscription at any time. Visit your learner dashboard to track your course enrollments and your progress.Learners will be able to follow along with the instructor and be able to apply and practice their learning through a series of low-stakes challenges and projects. Quizzes are the main assessment for this Specialization, along with Honor options in a couple of the courses. "
+    },
+    {
+      "id": 4,
+      "picture": "https://img.freepik.com/free-vector/digital-marketing-landing-page_33099-1726.jpg?w=996&t=st=1666894564~exp=1666895164~hmac=04be5ebbbdd73ed4c553021f5139a2969a994186d07fc273e0e51b78efac401d",
+      "name": "DIGITAL MARKETING",
+      "price": "$220",
+      "description": " With over 20 hours of training, quizzes and practical steps you can follow - this is one of the most comprehensive digital marketing courses available. We'll cover SEO, YouTube Marketing, Facebook Marketing, Google Adwords, Google Analytics and more! The course is hugely interactive with projects, checklists & actionable lectures built into every section. Learn step by step how to market a business online from scratch across all the major marketing channels."
+    },
+    {
+      "id": 5,
+      "picture": "https://img.freepik.com/free-vector/multicolor-backgorund-design_1379-8.jpg?t=st=1666862119~exp=1666862719~hmac=12fd1661bec4f9cb01b934607bf01df8fd82c2f750d86d35ee7cc4313d594dbf",
+      "name": "ADVANCED GRAFIC DESIGN",
+      "price": "$240",
+      "description": "The state-approved graphic design online training courses for anyone who is looking for professional further education in graphics. Our courses of study are the ideal choice for practical and creative design, learning relevant skills and obtaining constructive feedback from design professionals.Has it always been your dream to be creative? Would you like to work as a graphic designer, design creative concepts, implement ideas and design yourself? More and more companies see that paying attention to design is an important means of maintaining a competitive edge. Graphic designers play a key role in this area. The task of a graphic designer and the aim of this course is to communicate visual language clearly and intelligibly"
+    },
+    {
+      "id": 6,
+      "picture": "https://img.freepik.com/free-photo/pile-3d-popular-social-media-logos_1379-881.jpg?w=996&t=st=1666894448~exp=1666895048~hmac=f2149ea7d5f01c861f1edc48321f433abd1125551d3d3cb92f0d5da60d19ebce",
+      "name": "SOCIAL MEDIA MANAGEMENT",
+      "price": "$180",
+      "description": "This course offers an in-depth exploration of social media theories and management practices. Students start with understanding prominent theories applied in social media practice and then apply these theories in conducting social media research, executing a social media content analysis, and developing a strategic social media management plan for a real-world organization. They have the opportunity to scrutinize a wide variety of social media tactics, paying particular attention to the unique managerial functions of each. More importantly, students learn the mechanism of social influence and how social media trends are changing the way information flows in our society so that they can comfortably use and effectively leverage emerging social media in the future. In this course, students are able to apply social media management skills and knowledge of social media channels to conduct a social media analysis. In addition, students discuss the use of social media in crises, gain an understanding of setting social media policy, and review ethical and privacy issues surrounding social media marketing. Due to the ever evolving nature of social media, real-time case studies, current trends, and relevant articles are integrated throughout the course and in some cases, supplement or change course assignments."
+    }
+   ]
+ 
