@@ -22,3 +22,7 @@ app.get ('/courses', (req, res) => {
       const course = courses.find((course) => course.id === id )
        res.send(course);
  });
+
+ app.listen(port, () =>{
+     console.log(`server running on port: ${port}`)
+});
